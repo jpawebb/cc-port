@@ -1,0 +1,8 @@
+{
+    "MVDA": {
+        "long_name": "MVIS CryptoCompare Digital Assets 100 Index",
+        "description": "The MVIS CryptoCompare Digital Assets 100 Index (MVDA) is a market cap-weighted index which tracks the performance of the 100 largest digital assets. The index serves as benchmark and universe for the other MVIS CryptoCompare Digital Assets Indices.",
+        "size_requirements": "Index covers the top 100 digital assets by market capitalisation (80-120 buffer).",
+        "review": "Monthly."
+    }
+}
